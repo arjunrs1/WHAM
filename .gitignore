@@ -13,3 +13,7 @@ examples/
 # third party
 lib/
 third-party/
+configs/__pycache__/
+
+# data output dirs
+egoexo4d_skills_pose
