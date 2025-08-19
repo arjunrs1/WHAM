@@ -31,8 +31,8 @@ def run(cfg,
         video,
         output_pth,
         network,
-        calib=None,
         run_global=True,
+        calib=None,
         save_pkl=False,
         visualize=False):
     
