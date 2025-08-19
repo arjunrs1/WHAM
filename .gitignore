@@ -8,4 +8,8 @@ checkpoints/
 dataset/
 
 # examples
-examples/ 
+examples/
+
+# third party
+lib/
+third-party/
